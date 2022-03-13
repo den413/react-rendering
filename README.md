@@ -1,2 +1,2 @@
-# react-rendering
+# react-todo
 Created with CodeSandbox
